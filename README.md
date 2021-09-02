@@ -8,11 +8,11 @@
 <!-- <img alt="Last Commit" src="https://img.shields.io/github/last-commit/G-Sudarshan/G-Sudarshan?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat"> -->
 </h1>
 <h1 align="center">You never know how strong are you until being strong is the only choice you have</h1>
-	<p>
-		• Currently a third-year Information Technology major at PICT with minor in Cyber Security. My areas of interest include but are not limited to Web 			Development, DevOps & Opensource Software.
-			<br/>
-		• Passionate about Computer Science. I love collaborating and making connections. I love to discuss Tech on my [blog](https://dev.to/gsudarshan).
-	</p>
+		
+#### • Currently a third-year Information Technology major at PICT with minor in Cyber Security. My areas of interest include but are not limited to Web 			Development, DevOps & Opensource Software.
+		
+#### • Passionate about Computer Science. I love collaborating and making connections. I love to discuss Tech on my [blog]( https://dev.to/gsudarshan )
+	
 
 
 
