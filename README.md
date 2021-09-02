@@ -5,9 +5,16 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/G-Sudarshan)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/G-sudarshan)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=G-Sudarshan&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<!--img alt="Last Commit" src="https://img.shields.io/github/last-commit/G-Sudarshan/G-Sudarshan?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/G-Sudarshan/G-Sudarshan?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </h1>
-<h1 align="center">You never know how strong are you until being strong is the only choice you have</h1-->
+<h1 align="center">You never know how strong are you until being strong is the only choice you have</h1>
+	<p>
+		• Currently a third-year Information Technology major at PICT with minor in Cyber Security. My areas of interest include but are not limited to Web 			Development, DevOps & Opensource Software.
+			<br/>
+• Passionate about Computer Science. I love collaborating and making connections. I love to discuss Tech on my blog ( dev.to/gsudarshan ). Finding creative solutions to problems is something I have always enjoyed. As a kid I loved tinkering with things that were broken, figuring out how they worked and fixing them again. In my graduate studies, I took on a number of leadership roles, including coordinating workshops and tech boot camps and running NSS campaigns.
+<br/>
+• I am always open to chatting about computer science and would love for you to connect with me on Twitter ( @g_sudarshan11 )
+	</p>
 
 
 
