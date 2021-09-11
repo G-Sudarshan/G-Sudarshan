@@ -1,12 +1,11 @@
 <img align="right" alt="" width="400" src="https://www.linkedin.com/in/g-sudarshan/detail/background-image/">
-<img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px" style="max-width:100%;" />
+<!-- <img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px" style="max-width:100%;" /> -->
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm G Sudarshan
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/G-Sudarshan)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/G-sudarshan)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=G-Sudarshan&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<!-- <p align="left"> <a href="https://twitter.com/g_sudarshan11" target="blank"><img src="https://img.shields.io/twitter/follow/g_sudarshan11?logo=twitter&style=for-the-badge" alt="g_sudarshan11" /></a> </p> -->
-<!-- <img alt="Last Commit" src="https://img.shields.io/github/last-commit/G-Sudarshan/G-Sudarshan?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat"> -->
+
 </h1>
 <h1 align="center">You never know how strong are you until being strong is the only choice you have</h1>
 		
@@ -43,4 +42,6 @@
   
 ### Profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=G-Sudarshan)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=G-Sudarshan)](https://github.com/ryo-ma/github-profile-trophy) -->
+	
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/JayantGoel001)
