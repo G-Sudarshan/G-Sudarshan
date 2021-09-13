@@ -7,7 +7,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=G-Sudarshan&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 
 </h1>
-<h1 align="center">That what comes easy won’t last long, and that what lasts long won’t come easy.</h1>
+<h1 align="center">Collabration > Competition, Always:)</h1>
 		
 #### • Currently a third-year Information Technology major at PICT with minor in Cyber Security. My areas of interest are Web Development,  DevOps & Opensource Software.
 		
