@@ -9,7 +9,7 @@
 </h1>
 <h1 align="center">Collaboration > Competition, Always:)</h1>
 		
-#### • Currently a final-year Information Technology major at PICT with minor in Cyber Security. My areas of interest are Web Development,  DevOps & Opensource Software.
+#### • Currently Software Engineer, Backend at PhonePe, Studied with Information Technology major at PICT with minor in Cyber Security. My areas of interest are Web Development,  DevOps & Opensource Software.
 		
 #### • Passionate about Computer Science. I discuss Tech on my [blog]( https://dev.to/gsudarshan ).
 	
